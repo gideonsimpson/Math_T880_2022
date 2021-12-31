@@ -25,3 +25,9 @@ Manifest.toml
 
 # notebook checkpoints
 **/.ipynb_checkpoints/*
+
+# scratch work
+scratch/
+
+# mac files
+.DS_Store

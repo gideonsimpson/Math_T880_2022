@@ -31,3 +31,4 @@ scratch/
 
 # mac files
 .DS_Store
+.vscode/*
